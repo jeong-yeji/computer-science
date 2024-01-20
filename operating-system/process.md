@@ -44,7 +44,7 @@
 
 - 문맥(context) : 프로세스 수행 재개를 위한 정보
 
-## 프로세스 사용자 영역
+## 프로세스 메모리 영역
 
 - **커널 영역 => PCB**
 
@@ -66,4 +66,4 @@
   
   - 스택 영역은 메모리의 높은 주소에서 낮은 주소로 할당
   
-  <img src="file:///Users/jeong-yeji/Library/Application%20Support/marktext/images/2024-01-21-02-27-22-image.png" title="" alt="" width="191">
+  ![프로세스의 메모리 영역](./image/memory.png)

@@ -37,6 +37,8 @@
     1. [연속 메모리 할당](./contiguous-memory-allocation.md)
     
     2. [페이징을 통한 가상 메모리 관리](./paging.md)
+       
+       1. [페이징의 이점과 계층적 페이징](./copy-on-write-and-hierachical-page-table.md)
     
     3. [페이지 교체와 프레임 할당](./page-replacement-and-frame-allocation.md)
 
